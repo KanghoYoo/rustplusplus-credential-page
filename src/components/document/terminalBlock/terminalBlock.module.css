@@ -1,0 +1,14 @@
+.pre {
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+  background-color: #2d2d2d;
+  color: #f8f8f2;
+  font-size: 0.85rem;
+}
+
+.pre code {
+  display: block;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
